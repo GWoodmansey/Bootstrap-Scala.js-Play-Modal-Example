@@ -16,15 +16,15 @@ The code is commented showing what is Scala.js, and Scala Tags to produce the bo
 
 The important files in the project are:
 
-<u>ScalaJSExample.js</u>
+<h5>ScalaJSExample.js</h5>
 
 This file contains the Scala.js and Scala Tags code that will get converted into JavaScript on the completed page.
 
-<u>index.scala.html</u>
+<h5>index.scala.html</h5>
 
 This file has the layout of the viewed page. Note that the button is a standard Bootstrap button.
 
-<u>main.scala.html</u>
+<h5>main.scala.html</h5>
 
 This has the surrounding code that helps turn index.scala.html into a proper web page. It has the calls to Bootstrap and jQuery etc within it.
 
