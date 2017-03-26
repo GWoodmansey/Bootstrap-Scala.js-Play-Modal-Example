@@ -1,5 +1,6 @@
 <H1>Bootstrap-Scala.js-Play-Modal-Example</H1>
-A basic example of using Bootstrap with Scala.js in Play using Karasiq's library to show a modal dialog
+
+A basic example of using Bootstrap with Scala.js in Play using Karasiq's library to show a modal dialog.
 
 Karasiq Scala.js – Bootstrap code works and the demo he provides is beautiful, however it is rather complicated and hard to understand. To grasp how it works one must have some understanding of the following technologies:
 
@@ -33,7 +34,9 @@ The rest of the files in the project follow Scala-Play conventions.
 To run the project you must have installed minimally:
 
 Scala 2.10.6
+
 Play 2.5.2
+
 SBT 13.13
 
 The best way of doing this is getting at least a Java 8 compiler (JDK) , then SBT and creating a test Scala play project with it, which should download everything you need.
