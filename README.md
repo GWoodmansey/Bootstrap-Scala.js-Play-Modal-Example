@@ -5,10 +5,15 @@ A basic example of using Bootstrap with Scala.js in Play using Karasiq's library
 Karasiq Scala.js – Bootstrap code works and the demo he provides is beautiful, however it is rather complicated and hard to understand. To grasp how it works one must have some understanding of the following technologies:
 
   Basic web technologies (HTML, JavaScript, CSS)
+  
   Bootstrap
+  
   Scala
-  Play Foundation
+  
+  Scala Play
+  
   Scala.js
+  
   Scala Tags
 
 Even having all that Karsiq's example has other technologies in use. Hence I decided to make the most basic Scala.js Bootstrap example.
